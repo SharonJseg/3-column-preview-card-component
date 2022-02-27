@@ -1,0 +1,15 @@
+:root {
+  /* Font families */
+  --ff-lexend: 'Lexend Deca', sans-serif;
+  --ff-bigShoulder: 'Big Shoulders Display', sans-serif;
+
+  /* Font Sizes */
+  --fs-base: 0.935rem;
+  --fs-header: 2.5rem;
+
+  /* Colors */
+  --clr-background: #f2f2f2;
+  --clr-mustard: #e28625;
+  --clr-cyan: #006971;
+  --clr-dark-green: #004140;
+}

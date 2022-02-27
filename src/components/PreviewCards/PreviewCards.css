@@ -1,0 +1,33 @@
+.preview-cards {
+  max-width: 920px;
+  width: 100%;
+}
+
+.cards-container {
+  display: flex;
+  list-style: none;
+  border-radius: 8px;
+  background: var(--clr-mustard);
+}
+
+@media screen and (max-width: 500px) {
+  .preview-cards {
+    max-width: 450px;
+  }
+
+  .cards-container {
+    flex-direction: column;
+    margin: 88px 0;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .preview-cards {
+    max-width: 327px;
+  }
+
+  .cards-container {
+    flex-direction: column;
+    margin: 88px 0;
+  }
+}
