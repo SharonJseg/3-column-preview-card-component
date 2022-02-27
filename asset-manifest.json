@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3-column-preview-card-component/static/css/main.041f6117.css",
+    "main.js": "/3-column-preview-card-component/static/js/main.420863c0.js",
+    "static/js/787.6190e2d5.chunk.js": "/3-column-preview-card-component/static/js/787.6190e2d5.chunk.js",
+    "static/media/BigShouldersDisplay-Bold.woff": "/3-column-preview-card-component/static/media/BigShouldersDisplay-Bold.6cc9c14c197157223b0a.woff",
+    "static/media/LexendDeca-Regular.woff": "/3-column-preview-card-component/static/media/LexendDeca-Regular.dc9cf80c6e7c9b55aa33.woff",
+    "static/media/BigShouldersDisplay-Bold.woff2": "/3-column-preview-card-component/static/media/BigShouldersDisplay-Bold.e7dfe4013baf249e1952.woff2",
+    "static/media/LexendDeca-Regular.woff2": "/3-column-preview-card-component/static/media/LexendDeca-Regular.50bf6c4fff710297e4fb.woff2",
+    "static/media/icon-luxury.svg": "/3-column-preview-card-component/static/media/icon-luxury.7d6e1aefdc39c4742fbb.svg",
+    "static/media/icon-suvs.svg": "/3-column-preview-card-component/static/media/icon-suvs.058b664c311101933ebd.svg",
+    "static/media/icon-sedans.svg": "/3-column-preview-card-component/static/media/icon-sedans.e794502801c486bcffc3.svg",
+    "index.html": "/3-column-preview-card-component/index.html",
+    "main.041f6117.css.map": "/3-column-preview-card-component/static/css/main.041f6117.css.map",
+    "main.420863c0.js.map": "/3-column-preview-card-component/static/js/main.420863c0.js.map",
+    "787.6190e2d5.chunk.js.map": "/3-column-preview-card-component/static/js/787.6190e2d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041f6117.css",
+    "static/js/main.420863c0.js"
+  ]
+}
